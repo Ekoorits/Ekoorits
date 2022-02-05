@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enri.
 - 👀 I’m interested in getting a job in software developing.
-- 🌱 I’m currently learning Java. I’m finished with PostgreSQL.
+- 🌱 I’m currently learning Java, Python and Web Development (HTML, CSS, Javascript, React, Node.js, Angular). I’m finished with PostgreSQL.
 - 📫 People can reach me via linkedIn page -> https://www.linkedin.com/in/enri-koorits-8b5a961b0/
 
 <!---
